@@ -29,7 +29,7 @@ get_header();
     </div>
     <div class="result">
         <div class="boxresult">
-                    <div class="cot result1" ><img src="http://fit.tdc.edu.vn/files/large/b3bf1aea2ef87f09371adc2cf4ddc41b.jpg" alt="anh" class="img-fluid"></div>
+                    <div class="cot result1" ><img src="http://fit.tdc.edu.vn/files/large/d2a2cb1430dfe9a29f5e32e9fd2ab750.jpg" alt="anh" class="img-fluid"></div>
                     
                     <div class="cot result2"> <div class="ngay">16</div><div class="thang">Thang 2</div></div>
                     <div class="cot result3"><div class="result31">SINH VIÊN TDC THÍCH ỨNG VỚI MÔI TRƯỜNG CHUYỂN ĐỔI SỐ TRONG DOANH NGHIỆP HIỆN NAY</div> <div class="result32" >Sinh viên TDC thích ứng với môi trường chuyển đổi số trong Doanh nghiệp hiện nay[...]</div>  </div>
@@ -37,7 +37,7 @@ get_header();
     </div>
     <div class="result">
         <div class="boxresult">
-                    <div class="cot result1" ><img src="http://fit.tdc.edu.vn/files/large/b3bf1aea2ef87f09371adc2cf4ddc41b.jpg" alt="anh" class="img-fluid"></div>
+                    <div class="cot result1" ><img src="http://fit.tdc.edu.vn/files/large/4297d76576235b951cfb5a17a35ccce0.jpg" alt="anh" class="img-fluid"></div>
                     
                     <div class="cot result2"> <div class="ngay">16</div><div class="thang">Thang 2</div></div>
                     <div class="cot result3"><div class="result31">SINH VIÊN TDC THÍCH ỨNG VỚI MÔI TRƯỜNG CHUYỂN ĐỔI SỐ TRONG DOANH NGHIỆP HIỆN NAY</div> <div class="result32" >Sinh viên TDC thích ứng với môi trường chuyển đổi số trong Doanh nghiệp hiện nay[...]</div>  </div>
@@ -45,3 +45,5 @@ get_header();
     </div>
 
 </div>
+<?php
+get_footer();
